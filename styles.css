@@ -1,0 +1,94 @@
+body{
+    background-image: url("Capture.JPG");
+    background-size: cover;
+}
+
+.Head{
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+    color: white;
+    margin-top: 4%;
+}
+
+.Navbar{
+    float: right;
+    margin-top: 5%;
+    margin-right: 10%;
+    
+}
+.Navbar a{
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.Navbar .Agent{
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
+.whole{
+    background-color: rgb(32, 37, 57);
+    height: 600px;
+    width: 1200px;
+    margin: 150px 400px 150px 400px;
+    border-radius: 35px;
+}
+
+.firstdiv .find{
+    color: white;
+    margin-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.firstdiv{
+        float: left;
+        width: 50%;
+}
+
+.firstdiv .Offer{
+    color: rgb(118, 116, 137);
+    margin-left: 10%;
+    font-weight: bold;
+}
+
+.firstdiv .chicago{
+    color: white;
+    margin-left: 10%;
+}
+
+.navigate a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+
+}
+
+.navigate li{
+    display: inline;
+    
+}
+
+.navigate{
+    margin-left: 10%;
+    border: 1px solid transparent;
+    display: inline;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(65, 63, 76);
+}
+.dribble{
+    float: left;
+    width: 50%;
+}
+
+.navigate .consult{
+    border: 1px solid transparent;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.navigate .buy{
+    border-bottom: 2px solid red;
+}
